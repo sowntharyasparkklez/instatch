@@ -69,6 +69,7 @@ text-decoration: none;
 margin-top: 30px;
 padding: 20px 70px;
 border: none;
+margin-bottom: 5px;
 }
 button a{
     color: white;
@@ -317,7 +318,7 @@ hr{
     -webkit-user-select: none;
     -ms-user-select: none;
     user-select: none;
-    width: 40px;
+    width: 50px;
   
   }
   .hamRotate.active {
